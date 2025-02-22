@@ -1,0 +1,12 @@
+body{
+  text-align : center;
+  margin: 70px;
+}
+textarea{
+width: 60%;
+height: 120px;
+border-radius: 20px;
+border: 2px solid lightgreen; 
+  margin : 20px;
+  padding : 20px;
+}
